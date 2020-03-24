@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gh-pages-todo-list/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/gh-pages-todo-list/static/js/main.46a30815.chunk.js",
+    "main.js.map": "/gh-pages-todo-list/static/js/main.46a30815.chunk.js.map",
+    "runtime-main.js": "/gh-pages-todo-list/static/js/runtime-main.b1732d94.js",
+    "runtime-main.js.map": "/gh-pages-todo-list/static/js/runtime-main.b1732d94.js.map",
+    "static/css/2.0e8603eb.chunk.css": "/gh-pages-todo-list/static/css/2.0e8603eb.chunk.css",
+    "static/js/2.77ee2b0d.chunk.js": "/gh-pages-todo-list/static/js/2.77ee2b0d.chunk.js",
+    "static/js/2.77ee2b0d.chunk.js.map": "/gh-pages-todo-list/static/js/2.77ee2b0d.chunk.js.map",
+    "index.html": "/gh-pages-todo-list/index.html",
+    "precache-manifest.cc0f8c318c44f0b41145447675bde536.js": "/gh-pages-todo-list/precache-manifest.cc0f8c318c44f0b41145447675bde536.js",
+    "service-worker.js": "/gh-pages-todo-list/service-worker.js",
+    "static/css/2.0e8603eb.chunk.css.map": "/gh-pages-todo-list/static/css/2.0e8603eb.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/gh-pages-todo-list/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.77ee2b0d.chunk.js.LICENSE.txt": "/gh-pages-todo-list/static/js/2.77ee2b0d.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/gh-pages-todo-list/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1732d94.js",
+    "static/css/2.0e8603eb.chunk.css",
+    "static/js/2.77ee2b0d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.46a30815.chunk.js"
+  ]
+}
